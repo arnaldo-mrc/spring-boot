@@ -1,0 +1,5 @@
+package com.example.demo.repository;
+
+public class ContatoRepository extends JpaRepository<Contato, Long> {
+
+}
