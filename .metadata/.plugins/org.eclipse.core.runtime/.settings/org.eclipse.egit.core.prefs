@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=
-GitRepositoriesView.GitDirectories.relative=
+GitRepositoriesView.GitDirectories=C\:\\Users\\Marcel\\workspace-spring-tool-suite-4-4.2.0.RELEASE\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
 core_autoIgnoreDerivedResources=false
 core_defaultRepositoryDir=C\:\\Users\\Marcel\\workspace-spring-tool-suite-4-4.2.0.RELEASE
 eclipse.preferences.version=1
